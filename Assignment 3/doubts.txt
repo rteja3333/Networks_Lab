@@ -1,0 +1,4 @@
+1. do we need to use ACK
+
+
+2. \r\n  is it cumpolsory to use at end of each line

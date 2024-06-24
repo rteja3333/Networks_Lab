@@ -1,0 +1,48 @@
+
+
+1. Packets for Protocols:
+   a. TCP and UDP together:
+      - Total number of TCP packets: 20105
+      - Total number of UDP packets: 816
+
+   b. IPv4 and IPv6:
+      - Total number of IPv4 packets: 0
+      - Total number of IPv6 packets: 2
+
+2. Total Data Received:
+   a. When accessing http://iitkgp.ac.in:
+      - Total data received: 	10.020MB
+
+   b. When accessing https://www.cornell.edu:
+      - Total data received: 2.232MB
+
+3. DNS Packets:
+   a. Total number of DNS packets observed: 
+
+   b. **<Domain Name, IP> Table:**
+      - [Domain Name 1]: [IP Address 1]
+      - [Domain Name 2]: [IP Address 2]
+      - ...
+
+      *Note: Populate the table with actual domain names and corresponding IP addresses from DNS queries.*
+
+   c. **DNS Server IP Addresses:**
+      - DNS Server 1 IP: [placeholder]
+      - DNS Server 2 IP: [placeholder]
+      - ...
+
+4. **HTTP GET Requests for http://iitkgp.ac.in:**
+   a. Total number of HTTP GET requests observed: [placeholder]
+
+   b. **Details for each GET request:**
+      - **GET Request 1:**
+         - Total number of TCP segments received: [placeholder]
+         - Total data received in HTTP Response: [placeholder] bytes
+
+      - **GET Request 2:**
+         - Total number of TCP segments received: [placeholder]
+         - Total data received in HTTP Response: [placeholder] bytes
+
+      - ...
+
+*Replace the [placeholder] values with the actual data you observe during your network analysis.*
